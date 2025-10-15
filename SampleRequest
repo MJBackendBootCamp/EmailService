@@ -1,0 +1,17 @@
+Sample Request - [
+  {
+    "to": "abc@xyz.com",
+    "from": "John",
+    "message": "Hi !"
+  },
+  {
+    "to": "abc@gml.com",
+    "from": "Bob",
+    "message": "Hello !"
+  },
+  {
+    "to": "abed@ghi.com",
+    "from": "Jim",
+    "message": "Bye!"
+  }
+]
